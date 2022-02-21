@@ -1,0 +1,26 @@
+{
+  "name": "utter-nonsense-jessica-nagar",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "rm -f dist/* && parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/utter-nonsense-jessica-nagar.git"
+  },
+  "keywords": [],
+  "author": "Jessica Nagar <g00289544@stu.raritanval.edu> (https://github.com/RVCC-IDMX/utter-nonsense-jessica-nagar)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/utter-nonsense-jessica-nagar/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/utter-nonsense-jessica-nagar#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.2",
+    "parcel": "^2.3.2",
+    "sass": "^1.49.8"
+  }
+}
