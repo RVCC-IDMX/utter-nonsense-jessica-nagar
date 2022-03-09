@@ -1,0 +1,339 @@
+@font-face {
+    font-family: 'Lemonada';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url(../fonts/Lemonada-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz Extra Light';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url(../fonts/YanoneKaffeesatz-VariableFont_wght.ttf);
+}
+
+body{
+
+    background-color: pink;
+    color: black;
+
+}
+
+h1{
+
+    font-family: Lemonada;
+    font-size: 3.5rem;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+    padding: 0.5rem;
+
+}
+
+h2{
+
+    font-family: Lemonada;
+    font-size: 2.5rem;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+    padding: 0.5rem;
+
+}
+
+h3{
+
+    font-family: Lemonada;
+    font-size: 1.5rem;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+    padding: 0.5rem;
+
+}
+
+p{
+
+    font-family: Yanone Kaffeesatz Extra Light;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 550;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+
+}
+
+img{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75%;
+    border: 15px rgb(252, 121, 143) double;
+    border-radius: 1rem;
+
+}
+
+@media only screen and (min-width: 600px){
+
+    h1{
+
+        font-family: Lemonada;
+        font-size: 2.4rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h2{
+    
+        font-family: Lemonada;
+        font-size: 2.25rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h3{
+    
+        font-family: Lemonada;
+        font-size: 1.5rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    p{
+    
+        font-family: Yanone Kaffeesatz Extra Light;
+        text-align: center;
+        font-size: 2.5rem;
+        font-weight: 550;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 60%;
+        border: 15px rgb(252, 121, 143) double;
+        border-radius: 1rem;
+    
+    }
+
+
+}
+
+@media only screen and (min-width: 768px){
+
+    h1{
+
+        font-family: Lemonada;
+        font-size: 3rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h2{
+    
+        font-family: Lemonada;
+        font-size: 2.8rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h3{
+    
+        font-family: Lemonada;
+        font-size: 1.75rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    p{
+    
+        font-family: Yanone Kaffeesatz Extra Light;
+        text-align: center;
+        font-size: 2.75rem;
+        font-weight: 550;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 50%;
+        border: 15px rgb(252, 121, 143) double;
+        border-radius: 1rem;
+    
+    }
+
+
+}
+
+@media only screen and (min-width:992px){
+
+    h1{
+
+        font-family: Lemonada;
+        font-size: 4rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h2{
+    
+        font-family: Lemonada;
+        font-size: 3.65rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h3{
+    
+        font-family: Lemonada;
+        font-size: 2.25rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    p{
+    
+        font-family: Yanone Kaffeesatz Extra Light;
+        text-align: center;
+        font-size: 3rem;
+        font-weight: 550;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 55%;
+        border: 15px rgb(252, 121, 143) double;
+        border-radius: 1rem;
+    
+    }
+
+
+}
+
+@media only screen and (min-width: 1200px){
+
+
+     h1{
+
+        font-family: Lemonada;
+        font-size: 4.75rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h2{
+    
+        font-family: Lemonada;
+        font-size: 4.25rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    h3{
+    
+        font-family: Lemonada;
+        font-size: 2.5rem;
+        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0.5rem;
+    
+    }
+    
+    p{
+    
+        font-family: Yanone Kaffeesatz Extra Light;
+        text-align: center;
+        font-size: 3.5rem;
+        font-weight: 550;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 55%;
+        border: 15px rgb(252, 121, 143) double;
+        border-radius: 1rem;
+    
+    }
+
+}
