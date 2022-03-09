@@ -23,7 +23,7 @@
     "parcel": "^2.3.2",
     "sass": "^1.49.9"
   },
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "abortcontroller-polyfill": "^1.7.3",
     "base-x": "^3.0.9",
